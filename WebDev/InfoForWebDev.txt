@@ -1,0 +1,20 @@
+ Hostel managment :
+
+    Total student = 100
+        group 1 : 50
+            engineering : 15
+            B.sc : 35
+
+        group 2 : 25
+            B.Com : 15
+            B.A : 10
+
+        group 3 : 25
+            M.Com : 15
+            M.A : 10
+
+    Total Room : 30
+        par Room --> 3-4 student
+
+    
+
